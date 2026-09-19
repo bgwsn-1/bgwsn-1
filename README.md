@@ -14,7 +14,7 @@ I'm a 19-year-old Informatics Engineering student from Tangerang, Indonesia. I'v
 
 #### Languages
 
-- C++ - Currently focused on c++
+- C++ - Currently focused on C++
 
 #### Tools and Technologies
 
